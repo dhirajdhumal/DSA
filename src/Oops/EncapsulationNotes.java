@@ -5,7 +5,6 @@ package Oops;
     3-Abstraction
     4-Polymorphism
 
-
     1-Encapsulation
     -Binding data (variables) and methods (functions) into a single unit and restricting direct access to the data.
     -Hide internal data
